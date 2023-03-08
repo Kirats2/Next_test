@@ -16,12 +16,18 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
+
+
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/wE3svJxtND0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      
+      
       <h1> Ну что Юра нажми на кнопку     </h1>
       <br/>
       <br/>
-      
-
       <button>
+
+
         <h2 className='vanilka'>
         <Link href='vanilka'> Будут девки давать каждый день </Link>
       </h2>
