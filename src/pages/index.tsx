@@ -19,7 +19,7 @@ export default function Home() {
 
 
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/wE3svJxtND0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/wE3svJxtND0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
       
       
       <h1> Ну что Юра нажми на кнопку     </h1>
